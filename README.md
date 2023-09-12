@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Hello GitHub Actions add ons added something
+# Hello GitHub Actions add ons add something
 
 _Create a GitHub Action and use it in a workflow._
 
